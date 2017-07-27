@@ -1,0 +1,48 @@
+﻿.ustbilgi{
+    width:1400px;
+    height:120px;
+    border:1px solid white; 
+    background-color:#131456; 
+    font-family:'Comic Sans MS'; 
+    text-align:center; 
+    font-size:20px; 
+    margin:5px; 
+    color:red;
+}
+.ortadiv{
+    width:200px;
+    height:420px;
+    border:1px solid black;
+    margin:5px;
+    text-align:center;
+    font-size:35px;
+    float:left;
+
+}
+.ortayandiv{
+    width:1168px;
+    height:400px;
+    border:1px solid black;
+    margin:5px;
+    text-align:center;
+    padding:10px;
+    float:left;
+}
+
+.altbilgi {
+    width: 1400px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: darkgrey;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 20px;
+    margin: 5px;
+    float:left;
+}
+/*.aradiv{
+    width:1400px;
+    height:400px; 
+    border:1px solid black; 
+    margin:5px;
+}*/

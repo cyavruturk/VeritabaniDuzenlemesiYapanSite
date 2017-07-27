@@ -1,0 +1,12 @@
+c:\users\crnyvrtrk\documents\visual studio 2013\Projects\20170512\20170512_AspOdev\bin\20170512_AspOdev.dll.config
+c:\users\crnyvrtrk\documents\visual studio 2013\Projects\20170512\20170512_AspOdev\bin\20170512_AspOdev.dll
+c:\users\crnyvrtrk\documents\visual studio 2013\Projects\20170512\20170512_AspOdev\bin\20170512_AspOdev.pdb
+c:\users\crnyvrtrk\documents\visual studio 2013\Projects\20170512\20170512_AspOdev\obj\Debug\20170512_AspOdev.csprojResolveAssemblyReference.cache
+c:\users\crnyvrtrk\documents\visual studio 2013\Projects\20170512\20170512_AspOdev\obj\Debug\20170512_AspOdev.dll
+c:\users\crnyvrtrk\documents\visual studio 2013\Projects\20170512\20170512_AspOdev\obj\Debug\20170512_AspOdev.pdb
+C:\Users\Crnyvrtrk\Downloads\20170512\20170512\20170512_AspOdev\bin\20170512_AspOdev.dll.config
+C:\Users\Crnyvrtrk\Downloads\20170512\20170512\20170512_AspOdev\bin\20170512_AspOdev.dll
+C:\Users\Crnyvrtrk\Downloads\20170512\20170512\20170512_AspOdev\bin\20170512_AspOdev.pdb
+C:\Users\Crnyvrtrk\Downloads\20170512\20170512\20170512_AspOdev\obj\Debug\20170512_AspOdev.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170512\20170512\20170512_AspOdev\obj\Debug\20170512_AspOdev.dll
+C:\Users\Crnyvrtrk\Downloads\20170512\20170512\20170512_AspOdev\obj\Debug\20170512_AspOdev.pdb

@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="aspmasterpage.master.cs" Inherits="_20170512_AspOdev.aspmasterpage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+     <link href="CssAsp.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="ustbilgi">            <!--div açtık class adı verdik-->
+           <h3>Bilge Adam / Update İşlemi</h3>               <!--h3 boyutunda başlık ekledik-->
+             <nav>                           <!--nav ust bilgimiz içerisine bilgiyi girdik-->
+                <p> Listboxda bulunan verilere tıklayarak textbox içerisinde güncelleştirmenizi yapabilirsiniz </p> 
+            </nav>          
+        </div>
+
+        <div class="ortadiv">  <!--orta div ekliyoruz içerisine tıklanabilir linkler veriyoruz -->
+            <center>
+                <a href="categories.aspx">Categories</a>    
+                <a href="customers.aspx">Customers</a>
+                <a href="employees.aspx">Employees</a>
+                <a href="orders.aspx">Orders</a>
+                <a href="product.aspx">Products</a>
+                <a href="shippers.aspx">Shippers</a>
+                <a href="suppliers.aspx">Supliers</a>
+                </center>
+        </div>
+      
+         
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+         <div class="altbilgi">                   <!--alt bilgi için div açtık-->
+          <footer>                                <!--footer alt bilgi eklemek için açtığımız yer-->
+                  <p>Posted by: Hege Refsnes</p>         <!--paragraflarımızı koyduk-->
+                  <p>Contact information: <a href="mailto:someone@example.com">
+                  someone@example.com</a>.</p>
+             </footer>
+         </div>
+    </div>
+    </form>
+</body>
+</html>
